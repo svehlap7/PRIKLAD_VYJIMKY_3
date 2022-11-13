@@ -1,0 +1,11 @@
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.csproj.AssemblyReference.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.Form1.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.Properties.Resources.resources
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.csproj.GenerateResource.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.csproj.CoreCompileInputs.cache
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\bin\Debug\Priklad3.exe.config
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\bin\Debug\Priklad3.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\bin\Debug\Priklad3.pdb
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.exe
+C:\Users\svehl\Desktop\PRG_SKOLA_GIT\Priklad3\obj\Debug\Priklad3.pdb
